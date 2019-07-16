@@ -1,5 +1,6 @@
 # Stopper
 This is my little JavaScript project to build a stopwatch with a 7 segment display. You can start and reset the timer with the button. Currently only with second and minute indicator, but that can be tweaked very easily.
+The live demo could be viewed at https://archeloth.github.io/Stopper/.
 
 ## Project layout
 It contains a simple index page, that got styled with a CSS stylesheet, and a .js file that contains all the necessary scripts.
